@@ -1,0 +1,26 @@
+# Node.js
+
+# Logs
+logs/
+npm-debug.log*\n*npm-debug.log
+
+# Dependency directories
+node_modules/  
+yarn-error.log  
+yarn-debug.log  
+
+# Build output
+dist/  
+build/  
+
+# Environment variables
+env.local  
+env.development.local  
+env.test.local  
+env.production.local  
+
+# Optional npm cache directory
+.npm  
+
+# MacOS file attributes
+.DS_Store
